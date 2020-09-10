@@ -1,3 +1,4 @@
 module.exports = {
-    publicPath: 'calculator'
-  }
+    publicPath: "/calculator",
+    outputDir: "docs"
+  };
